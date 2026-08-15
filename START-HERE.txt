@@ -1,0 +1,9 @@
+KokSpy v0.2.2 - Windows x64
+
+1. Double-click KokSpy.exe.
+2. Click Open File, or drag an EXE, DLL, or .kspy project into the window.
+3. Use the left navigator for Disassembly, Sections, Imports, Exports, Strings, Functions, XRefs, Hex View, Annotations and Settings.
+
+KokSpy.exe is a Windows GUI application and does not open a command terminal.
+
+The optional terminal frontend is under tools\KokSpy-CLI.exe for scripting only.
